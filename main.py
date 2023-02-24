@@ -185,7 +185,6 @@ print(f"np.argmax(prediction_p): {yhat}")
 
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
-# You do not need to modify anything in this cell
 
 m, n = X.shape
 
